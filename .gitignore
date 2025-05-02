@@ -1,0 +1,5 @@
+alist-cli
+config.yaml
+.goreleaser.yaml
+.github
+.github/**
